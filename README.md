@@ -1,4 +1,4 @@
-The new NetApp NCSA-HC NS0-146 dumps (May/2019 Updated) now are available, here are part of NS0-146 exam questions (FYI):
+The new NetApp NCSA-HC NS0-146 dumps with VCE and PDF now are available, here are part of NS0-146 exam questions (FYI):
 
  
 
